@@ -1,6 +1,9 @@
 -- play_list --
 
 
+https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
+https://ninjasub.com/link/b1UjtCoAZeyyCFqE?clash=1
+https://ninjasub.com/link/b1UjtCoAZeyyCFqE?sub=1
 https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://ugn6oj8di4frhf.eepzau.org/CLBAqqtg/sUPllaKh?token=065b35f3d978ac0671e7fb5884a5e74f
@@ -9,6 +12,7 @@ https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
 https://platform.djjc.cfd/api/v1/client/subscribe?token=78e9584e3441954bea5ac3d00a43b27d&amp;flag=meta
 https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
+https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://bujidao.cc/sub?key=vt8Qlku9OczyJt6JI1Eqb6ZeQlgehqEo
 https://bujidao.cc/sub?key=KK7BTWJTpqY4bdO6R3qVu0qLWaAn9WRk
@@ -21,9 +25,8 @@ https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
-https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://befriends.concubine.top/ggbjgpy?token=c9691f3ec51c7ebb1258f38365724f76
 https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
 https://gates.djjc.cfd/api/v1/client/subscribe?token=2a6942998f33b7db181b9e7340f590de
@@ -881,6 +884,7 @@ https://bdsafhh.yiyuanlx.cc/s/01/mp4/subscribe?token=5559a75328de47e6eab51946d00
 https://bdsafhh.yiyuanlx.cc/s/01/mp4/subscribe?token=f09ff366d8b31d47327b468bf7e57590
 https://bdsafhh.yiyuanlx.cc/s/01/mp4/subscribe?token=f8677bc36115b84848fcbac82ef6d773
 https://befriends.concubine.top/ggbjgpy?token=a22b2cb87b4e2b88d322bd9516818875
+https://befriends.concubine.top/ggbjgpy?token=c9691f3ec51c7ebb1258f38365724f76
 https://bengalj.com/queue/list?token=d7b7a729b1adec9fd0c46a71d0e4d414
 https://bengalj.com/queue/list?token=f5a17a2e7ca02f44ffaa0df75a7485a6
 https://bh.jiedianxielou.workers.dev
